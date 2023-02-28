@@ -1,0 +1,51 @@
+body{
+    background-color: darkgray;
+}
+h1{
+    font-size: 30pt;
+    font-family: "Lucida Sans Unicode";
+    color:antiquewhite;
+    text-align: center;
+    background-color: black;
+}
+p{
+    font-size: 15pt;
+    text-align: center;
+    color: black;
+
+}
+li{
+    font-family: "Lucida Sans Unicode";
+    font-size: 15pt;
+
+}
+#intro_geral{
+    font-size: 5pt;
+    font-family:"Lucida Sans Unicode";
+}
+a:hover{
+    color: antiquewhite;
+    background-color: navy;
+}
+.mapas{
+    text-align: center;
+}
+table, th, td{
+    text-align: center;
+    font-family: "Lucida Sans Unicode";
+    font-size: 20pt;
+    border: 1px solid;
+    border-color: black;
+}
+th, td{
+    padding: 10px;
+    text-align: center;
+    width: 120px;
+}
+th{
+    font-weight: bold;
+}
+table{
+    border-collapse: collapse;
+    margin: auto;
+}
